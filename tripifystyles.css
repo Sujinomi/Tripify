@@ -58,7 +58,7 @@
   margin-right: 16px;
   font-size: 17px;
 }
-.navbar .search-container button {
+.search-container button {
   float: right;
   padding: 6px 10px;
   margin-top: 8px;
@@ -69,15 +69,15 @@
   cursor: pointer;
 }
 
-.navbar .search-container button:hover {
+.search-container button:hover {
   background: #ccc;
 }
 
 @media screen and (max-width: 600px) {
-  .navbar .search-container {
+.search-container {
     float: none;
 }
-.navbar input[type=text] {
+.search-container input[type=text] {
     border: 1px solid #ccc;  
   }
 }
