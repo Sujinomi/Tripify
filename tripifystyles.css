@@ -46,9 +46,7 @@
   background-color: #2196F3;
   color: white;
 }
-.navbar a:active {
-  background-color: #2196F3;
-}
+
 * {
   box-sizing: border-box;
 }
