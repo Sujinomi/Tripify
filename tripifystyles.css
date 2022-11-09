@@ -9,7 +9,7 @@
 
 .navbar2 {
   overflow: hidden;
-  background-color: white;
+  background: rgba(255, 255, 255, 0.6);
 }
 .navbar2 a {
   float: left;
@@ -29,7 +29,7 @@
 
 .navbar {
   overflow: hidden;
-  background-color: #333;
+  background: rgba(51, 51, 51, 0.6);
 }
 .navbar a {
   float: left;
@@ -56,12 +56,12 @@
 }
 .side {
   flex: 30%;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.6);
   padding: 20px;
 }
 .main {
   flex: 70%;
-  background-color: #00A36C;
+  background: rgba(0, 0, 0, 0.6);
   padding: 20px;
   font-size: 18px;
 }
@@ -83,12 +83,12 @@
 }
 .side2 {
   flex: 30%;
-  background-color: #FFFFC2;
+  background: rgba(0, 0, 0, 0.6);
   padding: 20px;
 }
 .main2 {
   flex: 70%;
-  background-color: #00A36C;
+  background: rgba(255, 255, 255, 0.6);
   padding: 20px;
   font-size: 18px;
 }
@@ -110,21 +110,21 @@
 }
 .side3 {
   flex: 30%;
-  background-color: #FFFFC2;
+  background: rgba(0, 0, 0, 0.6);
   padding: 20px;
   color: #123456;
   font-size: 20px;
 }
 .side4 {
   flex: 30%;
-  background-color: #FFFFC2;
+  background: rgba(0, 0, 0, 0.6);
   padding: 20px;
   color: #123456;
   font-size: 20px;
 }
 .side5 {
   flex: 30%;
-  background-color: #FFFFC2;
+  background: rgba(0, 0, 0, 0.6);
   padding: 20px;
   color: #123456;
   font-size: 20px;
