@@ -38,7 +38,10 @@
 .topnav .search-container button:hover {
   background: #ccc;
 }
-
+@media screen and (max-width: 600px) {
+  .topnav .search-container {
+    float: none;
+    }
 .topnav a, .topnav input[type=text], .topnav .search-container button {
     float: none;
     display: block;
@@ -60,7 +63,7 @@
  
   <div class="search-container">
     <form action="/action_page.php">
-      <input type="text" placeholder="Search.." name="search">
+        <input type="text" placeholder="Search.." name="search"></input>
       <button type="submit"><i class="fa fa-search"></i></button>
     </form>
   </div>
