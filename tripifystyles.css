@@ -27,7 +27,6 @@
   color: black;
 }
 
-
 .navbar {
   overflow: hidden;
   background-color: #333;
@@ -77,14 +76,6 @@
 @media screen and (max-width: 600px) {
   .navbar .search-container {
     float: none;
-}
-.navbar a, .navbar input[type=text], .navbar .search-container button {
-    float: none;
-    display: block;
-    text-align: left;
-    width: 100%;
-    margin: 0;
-    padding: 14px;
 }
 .navbar input[type=text] {
     border: 1px solid #ccc;  
