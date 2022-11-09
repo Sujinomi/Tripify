@@ -56,9 +56,8 @@
 }
 .side {
   flex: 30%;
-  background-color: #FFFFC2;
+  background: rgba(255, 255, 255, 0.2);
   padding: 20px;
-  opacity: .5;
 }
 .main {
   flex: 70%;
