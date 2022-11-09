@@ -61,7 +61,7 @@
 }
 .main {
   flex: 70%;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 163, 108, 0.6);
   padding: 20px;
   font-size: 18px;
 }
@@ -88,7 +88,7 @@
 }
 .main2 {
   flex: 70%;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 163, 108, 0.6);
   padding: 20px;
   font-size: 18px;
 }
@@ -110,21 +110,21 @@
 }
 .side3 {
   flex: 30%;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(255, 255, 255, 0.6);
   padding: 20px;
   color: #FFFFFF;
   font-size: 20px;
 }
 .side4 {
   flex: 30%;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(255, 255, 255, 0.6);
   padding: 20px;
   color: #FFFFFF;
   font-size: 20px;
 }
 .side5 {
   flex: 30%;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(255, 255, 255, 0.6);
   padding: 20px;
   color: #FFFFFF;
   font-size: 20px;
